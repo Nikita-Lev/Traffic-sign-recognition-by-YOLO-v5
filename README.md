@@ -8,7 +8,7 @@ The model can detect 13 traffic signs (on video, images, in real time):
 
 Dataset used for training: https://universe.roboflow.com/celikmustafa89merge/levha2
 
-# <div align="center">Examples of recognitions</div> 
+# <div align="center">Recognition examples</div> 
 ### Green traffic light
 ![](https://github.com/Nikita-Lev/Traffic-sign-recognition-by-YOLO-v5/blob/main/Demonstration/1.gif)  
 ### Green traffic light and Speed limit 50
